@@ -3,8 +3,8 @@ Meu nome é Matheus, sou desenvolvedor Java e apaixonado por tecnologia.
 
 <i> "No matter where you go, everyone's connected."  - Lain Iwakura </i>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Ézio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/friedrichmatheus/)](https://www.linkedin.com/in/friedrichmatheus/) 
-[![Gmail Badge](https://img.shields.io/badge/-eziolemes@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:camposfriedrichmatheus@gmail.com)](mailto:camposfriedrichmatheus@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Matheus-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/friedrichmatheus/)](https://www.linkedin.com/in/friedrichmatheus/) 
+[![Gmail Badge](https://img.shields.io/badge/-camposfriedrichmatheus@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:camposfriedrichmatheus@gmail.com)](mailto:camposfriedrichmatheus@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/les.gou_/)
 
 <div>

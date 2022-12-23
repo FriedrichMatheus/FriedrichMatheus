@@ -1,27 +1,16 @@
-### Sarve 
-Java dev
+# Olá! 👻
 
-<i> "No matter where you go, everyone's connected."  - Lain Iwakura </i>
+## meu nome é Matheus e esse é o meu perfil no Github
 
-[![Linkedin Badge](https://img.shields.io/badge/-Matheus-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/friedrichmatheus/)](https://www.linkedin.com/in/friedrichmatheus/)
+Sou developer a **1 ano** e tive, até o momento, experiência com:
 
-<div>
- <a href="https://github.com/FriedrichMatheus">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FriedrichMatheus&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FriedrichMatheus&layout=compact&langs_count=7&theme=algolia"/>
+<div style='background-color: #949292; display: flex; gap: 16px; width: fit-content; border-radius: 16px; padding: 8px'>
+<img src="https://cdn-icons-png.flaticon.com/512/154/154878.png" width="50px" >
+<img src="https://mgridtech.com/wp-content/uploads/2021/02/oracle-db.png" width="50px" style="border">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" width="50px">
+<img src="https://static-00.iconduck.com/assets.00/next-js-icon-512x512-zuauazrk.png" width="50px" >
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Electron_Software_Framework_Logo.svg" width="50px" style="border">
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="50px" style="border">
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" width="50px" style="border">
 </div>
-
-<!--
-**eziolemes/EzioLemes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
